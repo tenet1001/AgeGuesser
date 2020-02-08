@@ -1,0 +1,11 @@
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.exe
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.deps.json
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.runtimeconfig.json
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.runtimeconfig.dev.json
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.dll
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\bin\Debug\netcoreapp3.1\Rinse and Repeat.pdb
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\obj\Debug\netcoreapp3.1\Rinse and Repeat.csprojAssemblyReference.cache
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\obj\Debug\netcoreapp3.1\Rinse and Repeat.AssemblyInfoInputs.cache
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\obj\Debug\netcoreapp3.1\Rinse and Repeat.AssemblyInfo.cs
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\obj\Debug\netcoreapp3.1\Rinse and Repeat.dll
+C:\Users\korou\source\repos\Rinse and Repeat\Rinse and Repeat\obj\Debug\netcoreapp3.1\Rinse and Repeat.pdb
